@@ -1,4 +1,4 @@
-package com.curstwo.calculator;
+package com.curstwo.calculator.servicelib;
 
 public interface Interface {
     public String sayHello();
